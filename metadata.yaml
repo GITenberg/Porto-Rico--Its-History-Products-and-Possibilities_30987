@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34948'
     url: http://www.gutenberg.org/2009/agents/34948
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30987#Porto-Rico--Its-History-Products-and-Possibilities
 gutenberg_issued: '2010-01-16'
 gutenberg_type: Text
 identifiers:
